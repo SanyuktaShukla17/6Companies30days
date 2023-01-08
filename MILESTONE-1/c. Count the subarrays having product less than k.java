@@ -1,3 +1,6 @@
+//Count the subarrays having product less than k
+//link: https://practice.geeksforgeeks.org/problems/count-the-subarrays-having-product-less-than-k1708/1
+
 class Solution {
     
     public int countSubArrayProductLessThanK(long a[], long n, long k)
